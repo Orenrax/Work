@@ -10,8 +10,7 @@ public class Main {
         if(x==1){SUMM(console);}
         else if(x==2){MAX(console);}
 
-
-
+    //это я добавил 30:08:22 в 16:50
     }
 
     static void SUMM(Scanner console) {
